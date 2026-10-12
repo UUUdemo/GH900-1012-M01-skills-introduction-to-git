@@ -1,58 +1,37 @@
-# Stack Overflown
+<div align="center">
 
-這是一個以開發者主題為靈感的方塊消除遊戲。玩家需要操控落下的程式區塊，將它們排列成指定的錯誤模式，讓畫面中的「bug」被清除，避免堆疊過高導致遊戲結束。
+# 🎉 Congratulations UUUdemo! 🎉
 
-## 遊戲功能
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-- 落下方塊的經典俄羅斯方塊式操作
-- 每一局都會隨機出現一個目標錯誤模式
-- 透過排列方塊符合 5x5 的錯誤圖樣來清除區域
-- 依照完成模式的次數累積分數
-- 支援暫停、重新開始與鍵盤操作
-- 視覺風格使用開發者常見的配色與錯誤名稱，例如 Null Pointer、Memory Leak、Off By One 等
+### 🌟 You've successfully completed the exercise! 🌟
 
-## 玩法目標
+## 🚀 Share Your Success!
 
-你需要在板面上拼出目標圖形，當符合指定的錯誤模式時，系統會清除整個區域並加分。只要堆疊持續增加，最終就會觸發「STACK OVERFLOW!」結束遊戲。
+**Show off your new skills and inspire others!**
 
-## 控制方式
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Introduction%20to%20Git%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FUUUdemo%2FGH900-1012-M01-skills-introduction-to-git%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Introduction%20to%20Git%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FUUUdemo%2FGH900-1012-M01-skills-introduction-to-git%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Introduction%20to%20Git%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FUUUdemo%2FGH900-1012-M01-skills-introduction-to-git%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
 
-- 左右方向鍵：移動方塊
-- 上方向鍵：旋轉方塊
-- 下方向鍵：快速下落
-- 空白鍵：直接落下
-- P：暫停／繼續
+### 🎯 What's Next?
 
-## 執行方式
+**Keep the momentum going!**
 
-這個專案是純前端應用，直接開啟瀏覽器即可遊玩。
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/UUUdemo/GH900-1012-M01-skills-introduction-to-git/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills))
 
-1. 進入專案資料夾
-2. 打開 `src/index.html`
-3. 或使用本機伺服器：
+*There's no better way to learn than building things!* 🚀
 
-```bash
-cd src
-python -m http.server 8000
-```
+</div>
 
-接著在瀏覽器開啟：
+---
 
-```text
-http://localhost:8000
-```
-
-## 專案結構
-
-```text
-src/
-  index.html   # 遊戲畫面與 UI
-  index.js     # 遊戲邏輯、方塊移動、判定與分數
-  patterns.js  # 目標錯誤模式資料
-  style.css    # 頁面樣式
-```
-
-## 技術說明
-
-此 app 由 HTML、CSS 和 JavaScript 構成，沒有額外依賴，適合拿來練習前端互動、Canvas 繪圖與簡單遊戲邏輯設計。
+&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
